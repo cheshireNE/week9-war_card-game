@@ -1,0 +1,24 @@
+{
+  "name": "week-9-war_card_game",
+  "version": "1.0.0",
+  "main": "war_card_game.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheshireNE/week9-war_card-game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cheshireNE/week9-war_card-game/issues"
+  },
+  "homepage": "https://github.com/cheshireNE/week9-war_card-game#readme",
+  "description": "",
+  "devDependencies": {
+    "chai": "^4.3.10",
+    "mocha": "^10.2.0"
+  }
+}
