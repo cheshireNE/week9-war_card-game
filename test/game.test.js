@@ -7,7 +7,7 @@ const chai = require('chai');
 const expect = chai.expect;
 
 // Import the pure logic functions from gameLogic.js
-const { compareCards, shuffleDeck, createDeck } = require('../gamelogic.js');
+const { compareCards, shuffleDeck, createDeck } = require('../gameLogic.js');
 
 
 // Group tests for the compareCards function
